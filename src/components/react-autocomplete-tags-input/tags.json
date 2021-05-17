@@ -1,0 +1,26 @@
+[ 
+    {
+        "id": 1,
+        "tag": "Reading"
+    },
+    {
+        "id": 2,
+        "tag": "Writing"
+    },
+    {
+        "id": 3,
+        "tag": "Swimming"
+    },
+    {
+        "id": 4,
+        "tag": "Hiking"
+    },
+    {
+        "id": 5,
+        "tag": "Music"
+    },
+    {
+        "id": 5,
+        "tag": "React"
+    }      
+]
